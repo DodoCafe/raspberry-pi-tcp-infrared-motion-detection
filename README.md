@@ -4,9 +4,9 @@ This is the repository of a Python application built for Raspberry Pi which dete
 
 ## Hardware Setup
 Please refer to [the sensor datasheet](./docs/hc_sr501_pir_motion_sensor_datasheet.pdf) and [the Raspberry Pi GPIO pinout diagram](./docs/raspberry_pi_gpio_pinout_diagram.png) before proceeding.
-* Connect `+Power` pin of the sensor to a `5V` pin of Raspberry Pi.
+* Connect `+Power` pin of the sensor to a `5V power` pin of Raspberry Pi.
 * Connect `GND` pin of the sensor to a `Ground` pin of Raspberry Pi.
-* Connect `High / Low Output` pin of the sensor to `GPIO 23` of Raspberry Pi.
+* Connect `High / Low Output` pin of the sensor to the `GPIO 23` pin of Raspberry Pi.
 
 ## Demo Video
 * [[YouTube] Raspberry Pi TCP Infrared Motion Detection with Unity](https://youtu.be/_uFyIu8G5lA)
