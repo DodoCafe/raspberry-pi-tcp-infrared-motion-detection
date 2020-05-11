@@ -14,7 +14,7 @@ Please refer to [the sensor datasheet](./docs/hc_sr501_pir_motion_sensor_datashe
 ## Contributor
 * [phogbinh](https://github.com/phogbinh)
 
-## Source
-The author refers to the following articles to implement the program:
+## Reference
+The author refers to the following article to implement the program:
 * [HC-SR501 PIR motion sensor on Raspberry Pi
 ](https://www.freva.com/2019/05/21/hc-sr501-pir-motion-sensor-on-raspberry-pi/)
