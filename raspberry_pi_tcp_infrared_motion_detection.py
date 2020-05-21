@@ -1,6 +1,5 @@
 import RPi.GPIO as gpio
 import socket
-import time
 
 INFRARED_MOTION_SENSOR_GPIO_PIN = 23
 SERVER_APPLICATION_IPV4 = '192.168.31.222'
